@@ -1,0 +1,7 @@
+venv/
+*.pyc
+__pycache__/
+app.log
+/tmp/*
+*.pth
+Uploads/
